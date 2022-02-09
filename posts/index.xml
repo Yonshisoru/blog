@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>JustABlog</title><link>https://yonshisoru.githhub.io/blog/posts/</link><description>Recent content on JustABlog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 09 Feb 2022 22:01:23 +0700</lastBuildDate><atom:link href="https://yonshisoru.githhub.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Really New Post</title><link>https://yonshisoru.githhub.io/blog/posts/really-new-post/</link><pubDate>Wed, 09 Feb 2022 22:01:23 +0700</pubDate><guid>https://yonshisoru.githhub.io/blog/posts/really-new-post/</guid><description>public static void main(String[] args){ System.out.println(&amp;ldquo;Hello, world!&amp;quot;); }</description></item><item><title>Newpost</title><link>https://yonshisoru.githhub.io/blog/posts/newpost/</link><pubDate>Wed, 09 Feb 2022 21:44:10 +0700</pubDate><guid>https://yonshisoru.githhub.io/blog/posts/newpost/</guid><description>123rf</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JustABlog</title>
+    <link>https://yonshisoru.githhub.io/blog/posts/</link>
+    <description>Recent content on JustABlog</description>
+    <image>
+      <url>https://yonshisoru.githhub.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yonshisoru.githhub.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Feb 2022 22:01:23 +0700</lastBuildDate><atom:link href="https://yonshisoru.githhub.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Really New Post</title>
+      <link>https://yonshisoru.githhub.io/blog/posts/really-new-post/</link>
+      <pubDate>Wed, 09 Feb 2022 22:01:23 +0700</pubDate>
+      
+      <guid>https://yonshisoru.githhub.io/blog/posts/really-new-post/</guid>
+      <description>public static void main(String[] args){ System.out.println(&amp;ldquo;Hello, world!&amp;quot;); }</description>
+    </item>
+    
+    <item>
+      <title>Newpost</title>
+      <link>https://yonshisoru.githhub.io/blog/posts/newpost/</link>
+      <pubDate>Wed, 09 Feb 2022 21:44:10 +0700</pubDate>
+      
+      <guid>https://yonshisoru.githhub.io/blog/posts/newpost/</guid>
+      <description>123rf</description>
+    </item>
+    
+  </channel>
+</rss>
