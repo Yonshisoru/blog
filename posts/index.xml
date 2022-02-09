@@ -12,20 +12,20 @@
     <lastBuildDate>Wed, 09 Feb 2022 22:01:23 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Really New Post</title>
+      <link>https://yonshisoru.github.io/blog/posts/really-new-post-copy/</link>
+      <pubDate>Wed, 09 Feb 2022 22:01:23 +0700</pubDate>
+      
+      <guid>https://yonshisoru.github.io/blog/posts/really-new-post-copy/</guid>
+      <description>public static void main(String[] args){ System.out.println(&amp;#34;Hello, world!&amp;#34;); } </description>
+    </item>
+    
+    <item>
+      <title>Really New Post</title>
       <link>https://yonshisoru.github.io/blog/posts/really-new-post/</link>
       <pubDate>Wed, 09 Feb 2022 22:01:23 +0700</pubDate>
       
       <guid>https://yonshisoru.github.io/blog/posts/really-new-post/</guid>
       <description>public static void main(String[] args){ System.out.println(&amp;#34;Hello, world!&amp;#34;); } </description>
-    </item>
-    
-    <item>
-      <title>Newpost</title>
-      <link>https://yonshisoru.github.io/blog/posts/newpost/</link>
-      <pubDate>Wed, 09 Feb 2022 21:44:10 +0700</pubDate>
-      
-      <guid>https://yonshisoru.github.io/blog/posts/newpost/</guid>
-      <description>123rf</description>
     </item>
     
   </channel>
