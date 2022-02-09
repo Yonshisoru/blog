@@ -1,4 +1,4 @@
-baseURL = "https://yonshisoru.githhub.io/blog/"
+baseURL = "https://yonshisoru.github.io/blog/"
 title = "JustABlog"
 paginate = 5
 theme = "PaperMod"
