@@ -1,3 +1,4 @@
-baseURL = 'http://yonshisoru.github.io'
+baseURL = 'https://yonshisoru.github.io/blog/'
 languageCode = 'en-us'
 title = 'My Blog'
+theme = 'Papermod'
