@@ -34,6 +34,11 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+tags = ['test']
+
+  [taxonomies]
+    tag = "tags"
+    category = "categories"
 
   [params.assets]
   favicon = "<link / abs url>"
