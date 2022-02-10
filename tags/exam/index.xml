@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>data structure on JustABlog</title>
-    <link>https://yonshisoru.github.io/blog/categories/data-structure/</link>
-    <description>Recent content in data structure on JustABlog</description>
+    <title>exam on JustABlog</title>
+    <link>https://yonshisoru.github.io/blog/tags/exam/</link>
+    <description>Recent content in exam on JustABlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 00:39:45 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/categories/data-structure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:39:45 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/tags/exam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week2 Coding</title>
       <link>https://yonshisoru.github.io/blog/posts/week2-coding/</link>
@@ -13,24 +13,6 @@
       
       <guid>https://yonshisoru.github.io/blog/posts/week2-coding/</guid>
       <description>Fibonacci Number import java.util.Scanner; public class w2_lab01 { public static long fibofasterway(int m){ if(m&amp;lt;2) return m; long[] f = new long[m+1]; f[0]=0; f[1]=1; for(int i=2;i&amp;lt;=m;i++){ f[i] = f[i-1]+f[i-2]; } return f[m]; } public static void main(String[] args) { Scanner scan = new Scanner(System.in); int n = scan.nextInt(); scan.close(); if(n&amp;gt;=0&amp;amp;&amp;amp;n&amp;lt;=45) System.out.println(fibofasterway(n)); } } Last Digit of a Large Fibonacci Number import java.util.Scanner; public class w2_lab02 { public static long fibolastway(int m){ if(m&amp;lt;2) return m; long[] f = new long[m+1]; f[0]=0; f[1]=1; for(int i=2;i&amp;lt;=m;i++){ f[i] = (f[i-1]+f[i-2])%10; } return f[m]; } public static void main(String[] args) { Scanner scan = new Scanner(System.</description>
-    </item>
-    
-    <item>
-      <title>Big-O Notation</title>
-      <link>https://yonshisoru.github.io/blog/posts/big-o-notation/</link>
-      <pubDate>Thu, 10 Feb 2022 13:40:30 +0700</pubDate>
-      
-      <guid>https://yonshisoru.github.io/blog/posts/big-o-notation/</guid>
-      <description>Defination  f(n) = O(g(n)) or f(n) ≤ g(n)
-if there exist constants N and c,
-n ≥ N , f(n) ≥ c*g(n)
- Common Rule  Multiplcative constants can be omitted
-**n^3** = O(**n^3**) **n^2**/3 = O(**n^2**)
-n^a &amp;lt; n^b for 0 &amp;lt; a &amp;lt;b :
-n = O(n^2), root(n) = O(n)
-**using n for a and n for b
-n^a &amp;lt; b^n (a&amp;gt;0,b&amp;gt;1) :
-n^5 = O(root(2^n), n^100 = O(1.</description>
     </item>
     
   </channel>

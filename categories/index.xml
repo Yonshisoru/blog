@@ -5,20 +5,11 @@
     <link>https://yonshisoru.github.io/blog/categories/</link>
     <description>Recent content in Categories on JustABlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Feb 2022 15:38:01 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>https://yonshisoru.github.io/blog/categories/syntax/</link>
-      <pubDate>Thu, 10 Feb 2022 15:38:01 +0700</pubDate>
-      
-      <guid>https://yonshisoru.github.io/blog/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 11 Feb 2022 00:39:45 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>algorithm</title>
       <link>https://yonshisoru.github.io/blog/categories/algorithm/</link>
-      <pubDate>Thu, 10 Feb 2022 13:40:30 +0700</pubDate>
+      <pubDate>Fri, 11 Feb 2022 00:39:45 +0700</pubDate>
       
       <guid>https://yonshisoru.github.io/blog/categories/algorithm/</guid>
       <description></description>
@@ -27,9 +18,18 @@
     <item>
       <title>data structure</title>
       <link>https://yonshisoru.github.io/blog/categories/data-structure/</link>
-      <pubDate>Thu, 10 Feb 2022 13:40:30 +0700</pubDate>
+      <pubDate>Fri, 11 Feb 2022 00:39:45 +0700</pubDate>
       
       <guid>https://yonshisoru.github.io/blog/categories/data-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://yonshisoru.github.io/blog/categories/syntax/</link>
+      <pubDate>Thu, 10 Feb 2022 15:38:01 +0700</pubDate>
+      
+      <guid>https://yonshisoru.github.io/blog/categories/syntax/</guid>
       <description></description>
     </item>
     

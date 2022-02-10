@@ -5,7 +5,16 @@
     <link>https://yonshisoru.github.io/blog/categories/algorithm/</link>
     <description>Recent content in algorithm on JustABlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Feb 2022 13:40:30 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/categories/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:39:45 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/categories/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week2 Coding</title>
+      <link>https://yonshisoru.github.io/blog/posts/week2-coding/</link>
+      <pubDate>Fri, 11 Feb 2022 00:39:45 +0700</pubDate>
+      
+      <guid>https://yonshisoru.github.io/blog/posts/week2-coding/</guid>
+      <description>Fibonacci Number import java.util.Scanner; public class w2_lab01 { public static long fibofasterway(int m){ if(m&amp;lt;2) return m; long[] f = new long[m+1]; f[0]=0; f[1]=1; for(int i=2;i&amp;lt;=m;i++){ f[i] = f[i-1]+f[i-2]; } return f[m]; } public static void main(String[] args) { Scanner scan = new Scanner(System.in); int n = scan.nextInt(); scan.close(); if(n&amp;gt;=0&amp;amp;&amp;amp;n&amp;lt;=45) System.out.println(fibofasterway(n)); } } Last Digit of a Large Fibonacci Number import java.util.Scanner; public class w2_lab02 { public static long fibolastway(int m){ if(m&amp;lt;2) return m; long[] f = new long[m+1]; f[0]=0; f[1]=1; for(int i=2;i&amp;lt;=m;i++){ f[i] = (f[i-1]+f[i-2])%10; } return f[m]; } public static void main(String[] args) { Scanner scan = new Scanner(System.</description>
+    </item>
+    
     <item>
       <title>Big-O Notation</title>
       <link>https://yonshisoru.github.io/blog/posts/big-o-notation/</link>
