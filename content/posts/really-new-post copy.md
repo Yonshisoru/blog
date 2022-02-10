@@ -1,7 +1,7 @@
 ---
 title: "Really New Post"
 date: 2022-02-09T22:01:23+07:00
-draft: false
+draft: true
 tags: ['test2']
 categories: ['eiei']
 ---

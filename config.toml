@@ -3,9 +3,9 @@ title = "JustABlog"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
-buildDrafts = true
-buildFuture = false
-buildExpired = false
+buildDrafts = false
+buildFuture = true
+buildExpired = true
 googleAnalytics = "UA-123-45"
 
 [minify]
@@ -15,14 +15,11 @@ minifyOutput = true
 [params]
 env = "production"
 title = "JustABlog"
-description = "Nothing xD"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "January 2, 2006"
+author = "Yonshisoru"
+DateFormat = "Mon, 02 Jan 2006 15:04:05 MST"
 defaultTheme = "auto"
 disableThemeToggle = false
-ShowReadingTime = true
+ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = false
 ShowBreadCrumbs = true
@@ -34,23 +31,13 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
-tags = ['test']
 
-  [taxonomies]
-    tag = "tags"
-    category = "categories"
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = "/blog/blog-icon.ico"
+  favicon16x16 = "/blog/blog-icon.ico"
+  favicon32x32 = "/blog/blog-icon.ico"
 
-  [params.label]
-  text = "Home"
-  #icon = "/apple-touch-icon.png"
-  #iconHeight = 35
 
   [params.profileMode]
   enabled = false
@@ -83,10 +70,10 @@ tags = ['test']
 
 
   [params.cover]
-    image = "/footer.jpg"
+    image = "/blog/duck.jpg"
     alt = "no more duck"
     caption = "Just a duck"
-    relative = true
+    relative = false
 
 
   [params.editPost]
@@ -107,17 +94,17 @@ tags = ['test']
 identifier = "categories"
 name = "categories"
 url = "/categories/"
-weight = 10
+weight = 2
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
 url = "/tags/"
-weight = 20
+weight = 3
 
 
 [[menu.main]]
 identifier = "archives"
 name = "archives"
 url = "/archives/"
-weight = 20
+weight = 1
