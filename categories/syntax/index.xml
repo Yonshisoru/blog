@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>syntax on JustABlog</title>
+    <link>https://yonshisoru.github.io/blog/categories/syntax/</link>
+    <description>Recent content in syntax on JustABlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Feb 2022 15:38:01 +0700</lastBuildDate><atom:link href="https://yonshisoru.github.io/blog/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Md Syntax</title>
+      <link>https://yonshisoru.github.io/blog/posts/basic-md-syntax/</link>
+      <pubDate>Thu, 10 Feb 2022 15:38:01 +0700</pubDate>
+      
+      <guid>https://yonshisoru.github.io/blog/posts/basic-md-syntax/</guid>
+      <description>Syntax  Header  Header level 1 Header level 2 Header level 3 Header level 4 Header level 5 Header level 6  # Header level 1 | === ## Header level 2 | --- ### Header level 3 #### Header level 4 ##### Header level 5 ###### Header level 6 Emphasis  Bold
+Italic
+Bold&amp;amp;Italic
+  **Bold** | __Bold__ *Italic* | _Italic_ ***Bold+Italic*** | ___Bold+Italic___ Blockquotes  bigest</description>
+    </item>
+    
+  </channel>
+</rss>

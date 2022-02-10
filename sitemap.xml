@@ -2,35 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yonshisoru.github.io/blog/categories/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <loc>https://yonshisoru.github.io/blog/posts/basic-md-syntax/</loc>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
-    <loc>https://yonshisoru.github.io/blog/categories/eiei/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <loc>https://yonshisoru.github.io/blog/categories/</loc>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
     <loc>https://yonshisoru.github.io/blog/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
-    <loc>https://yonshisoru.github.io/blog/categories/newpost/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <loc>https://yonshisoru.github.io/blog/tags/markdown/</loc>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
     <loc>https://yonshisoru.github.io/blog/posts/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
-    <loc>https://yonshisoru.github.io/blog/posts/really-new-post-copy/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
-  </url><url>
-    <loc>https://yonshisoru.github.io/blog/posts/really-new-post/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <loc>https://yonshisoru.github.io/blog/categories/syntax/</loc>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
     <loc>https://yonshisoru.github.io/blog/tags/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <lastmod>2022-02-10T15:38:01+07:00</lastmod>
   </url><url>
-    <loc>https://yonshisoru.github.io/blog/tags/test/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <loc>https://yonshisoru.github.io/blog/categories/algorithm/</loc>
+    <lastmod>2022-02-10T13:40:30+07:00</lastmod>
   </url><url>
-    <loc>https://yonshisoru.github.io/blog/tags/test2/</loc>
-    <lastmod>2022-02-09T22:01:23+07:00</lastmod>
+    <loc>https://yonshisoru.github.io/blog/posts/big-o-notation/</loc>
+    <lastmod>2022-02-10T13:40:30+07:00</lastmod>
+  </url><url>
+    <loc>https://yonshisoru.github.io/blog/tags/bigo/</loc>
+    <lastmod>2022-02-10T13:40:30+07:00</lastmod>
+  </url><url>
+    <loc>https://yonshisoru.github.io/blog/categories/data-structure/</loc>
+    <lastmod>2022-02-10T13:40:30+07:00</lastmod>
   </url><url>
     <loc>https://yonshisoru.github.io/blog/archives/</loc>
   </url>
